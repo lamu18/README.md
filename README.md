@@ -12,4 +12,4 @@
 
 
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](http://linkedin.com/in/phup-lamu-bhutia-62b892249-light-mode-only)
+[![LinkedIn](./img/linkedin-light.svg)](http://linkedin.com/in/phup-lamu-bhutia-62b892249-light-mode-only)
