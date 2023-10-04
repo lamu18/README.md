@@ -7,7 +7,7 @@
 🌟 What I Do: I specialize in front-end and back-end development, ensuring seamless integration of design and functionality. My goal is to create intuitive and interactive websites that leave a lasting impression.
 
 🔧 Tools: I am proficient in using industry-standard tools and frameworks to streamline the development process and enhance efficiency. I believe in the power of collaboration and open source, and I'm always eager to learn and explore new technologies.
-
+Ongoing projects: ReadCycle is a e-commerce website,front-end HTML,CSS,Javascripit,Bootstrap, Back-end:Java,SQl,MongoDB.
 ### Connect with me:
 
 
